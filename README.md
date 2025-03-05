@@ -19,3 +19,7 @@ Add the API key to a text file or modify the code accordingly.
 >python path/to/ask_ai.py
 >```
 
+## Version History
+- 1.0: Initial version
+- 2.0: Improved script by making it work like a chat and not like a "one message only" script
+
